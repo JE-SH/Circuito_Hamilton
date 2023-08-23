@@ -1,0 +1,18 @@
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.csprojResolveAssemblyReference.cache
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.MainForm.resources
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.csproj.GenerateResource.Cache
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\bin\Debug\ACTIVIDAD2.exe.config
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\bin\Debug\ACTIVIDAD2.exe
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\bin\Debug\ACTIVIDAD2.pdb
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.exe
+C:\Users\jesh2\Documents\JOSE\UNI\3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.pdb
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\bin\Debug\ACTIVIDAD2.exe.config
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\bin\Debug\ACTIVIDAD2.exe
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.csproj.AssemblyReference.cache
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.csproj.SuggestedBindingRedirects.cache
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.MainForm.resources
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.csproj.GenerateResource.cache
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.csproj.CoreCompileInputs.cache
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.exe
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\obj\Debug\ACTIVIDAD2.pdb
+D:\Escuela\UNI 3\SEM. Algoritmia\ACT2\ACTIVIDAD2\ACTIVIDAD2\bin\Debug\ACTIVIDAD2.pdb
